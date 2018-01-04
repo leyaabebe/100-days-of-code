@@ -18,3 +18,13 @@
 **Link(s) to work**<br>
 <a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a><br>
 <a href="https://codepen.io/leyaabebe/project/full/AxGPze">ANIFAN CodePen</a>
+
+### Day 3: January 3, Wednesday
+
+**Today's Progress**:<br> More FCC, drafted wireframe for project page of portfolio, and made edits to responsiveness of blog page.
+
+**Thoughts**<br> Having done the tribute and portfolio projects before for FCC, I'm going to try to challenge myself more in its design. I think I'm going to aim to get the Front End Development Certificate done before the end of the month. I feel like I could do it. I didn't touch C# today, but hopefully I'll pick back up on it this weekend. 
+
+**Link(s) to work**<br>
+<a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a><br>
+<a href="https://codepen.io/leyaabebe/project/full/AxGPze">ANIFAN CodePen</a>
