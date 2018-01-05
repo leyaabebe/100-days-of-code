@@ -17,7 +17,8 @@
 
 **Link(s) to work**<br>
 <a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a><br>
-<a href="https://codepen.io/leyaabebe/project/full/AxGPze">ANIFAN CodePen</a>
+<s><a href="https://codepen.io/leyaabebe/project/full/AxGPze">ANIFAN CodePen</a></s>
+<a href="https://codepen.io/leyaabebe/pen/OzOLeO">ANIFAN CodePen</a>
 
 ### Day 3: January 3, Wednesday
 
@@ -27,4 +28,23 @@
 
 **Link(s) to work**<br>
 <a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a><br>
-<a href="https://codepen.io/leyaabebe/project/full/AxGPze">ANIFAN CodePen</a>
+<s><a href="https://codepen.io/leyaabebe/project/full/AxGPze">ANIFAN CodePen</a></s>
+<a href="https://codepen.io/leyaabebe/pen/OzOLeO">ANIFAN CodePen</a>
+
+### Day 4: January 4, Thursday
+
+**Today's Progress**:<br> Read articles on coding, but didn't do much coding today.
+
+**Thoughts**<br> Feeling super sick. Had to take the day to recover. I was asleep for most of the day.
+
+**Link(s) to work**<br>
+<em>no new developments</em>
+
+### Day 5: January 5, Friday
+
+**Today's Progress**:<br> Started coding the personal website on CodePen as a project. Moved ANIFAN from project to pen on CodePen. Updated the links.
+
+**Thoughts**<br> ...
+
+**Link(s) to work**<br>
+<a href="https://codepen.io/leyaabebe/pen/OzOLeO">ANIFAN CodePen</a>
