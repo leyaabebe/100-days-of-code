@@ -42,9 +42,10 @@
 
 ### Day 5: January 5, Friday
 
-**Today's Progress**:<br> Started coding the personal website on CodePen as a project. Moved ANIFAN from project to pen on CodePen. Updated the links.
+**Today's Progress**:<br> Started coding the personal website on CodePen as a project. Moved ANIFAN from project to pen on CodePen. Updated the links. I finally decided who to make a tribute page to—Hayao Miyazaki. I was reminded of him since today's his birthday.
 
-**Thoughts**<br> ...
+**Thoughts**<br> My portfolio site is coming along! Yay! It's still mainly in template form, but coding it took time, and I'm happy that it works as well as it does. Using codepen, I can't include php files, but once I get every page's main layout down, I'll pull the code and keep working on it from Sublime text. 
 
 **Link(s) to work**<br>
-<a href="https://codepen.io/leyaabebe/pen/OzOLeO">ANIFAN CodePen</a>
+<a href="https://codepen.io/leyaabebe/pen/OzOLeO">ANIFAN CodePen</a><br>
+<a href="https://codepen.io/leyaabebe/project/full/AxGPze/">Portfolio Website</a>
