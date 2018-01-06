@@ -49,3 +49,14 @@
 **Link(s) to work**<br>
 <a href="https://codepen.io/leyaabebe/pen/OzOLeO">ANIFAN CodePen</a><br>
 <a href="https://codepen.io/leyaabebe/project/full/AxGPze/">Portfolio Website</a>
+
+### Day 6: January 6, Saturday
+
+**Today's Progress**:<br> Finished Tribute page project and Portfolio project and more coding challenges for FCC.
+
+**Thoughts**<br> The portfolio site needs more work, but it's definitely improved since yesterday. Having issues keeping the &equiv; in line with my name when at a mobile size. The height of the header also doesn't quite match what I'm setting it to for different @media queries. The actual screenshots for the website in the GIF needs to be redone as well as the GIF. I might also want to rethink the layout for the about section/page. (It's a section in order to meet the requirements of the challenge on FCC) As for the tribute page, I can see myself turning it into an animation via AE and loading it in. It would be cool to learn how to incorporate more interactions with code in the meantime. 
+
+**Link(s) to work**<br>
+<a href="https://codepen.io/leyaabebe/full/PEObrK/">Tribute to Hayao Miyazaki</a><br>
+<a href="https://codepen.io/leyaabebe/project/full/AxGPze/">Portfolio Website</a><br>
+<a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a>
