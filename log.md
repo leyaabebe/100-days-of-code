@@ -60,3 +60,13 @@
 <a href="https://codepen.io/leyaabebe/full/PEObrK/">Tribute to Hayao Miyazaki</a><br>
 <a href="https://codepen.io/leyaabebe/project/full/AxGPze/">Portfolio Website</a><br>
 <a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a>
+
+### Day 6: January 7, Sunday
+
+**Today's Progress**:<br> Halfway through Basic Javascript in FCC.
+
+**Thoughts**<br> Just pushing onwards...I need to get better at posting updates on time. Happy I'm getting the hour in regardless.
+
+**Link(s) to work**<br>
+
+<a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a>
