@@ -61,7 +61,7 @@
 <a href="https://codepen.io/leyaabebe/project/full/AxGPze/">Portfolio Website</a><br>
 <a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a>
 
-### Day 6: January 7, Sunday
+### Day 7: January 7, Sunday
 
 **Today's Progress**:<br> Halfway through Basic Javascript in FCC.
 
@@ -70,3 +70,41 @@
 **Link(s) to work**<br>
 
 <a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a>
+
+### Day 8: January 8, Monday
+
+**Today's Progress**:<br> FCC
+
+**Thoughts**<br> Worked through challenges and read articles.
+
+**Link(s) to work**<br>
+
+<a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a>
+
+### Day 9: January 9, Tuesday
+
+**Today's Progress**:<br> FCC
+
+**Thoughts**<br> Worked through challenges...
+
+**Link(s) to work**<br>
+
+<a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a>
+
+### Day 10: January 10, Wednesday
+
+**Today's Progress**:<br> Read the majority of Web Animation using Javascript by Julian Shapiro. Worked through three chapters of practice exercises to familiarize myself with Velocity.js.
+
+**Thoughts**<br> Will create a codepen or repository for animations that demonstrate principles of motion using a combination of CSS and Velocity.js.
+
+**Link(s) to work**<br>
+NA
+
+### Day 11: January 11, Thursday
+
+**Today's Progress**:<br> Minimal coding.
+
+**Thoughts**<br> Offline today. Will pick back up this weekend. Realized that my responsiveness could be improved for my pens so far, and I need to finish my portfolio site.
+
+**Link(s) to work**<br>
+NA
