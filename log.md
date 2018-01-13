@@ -108,3 +108,14 @@ NA
 
 **Link(s) to work**<br>
 NA
+
+### Day 12: January 12, Friday
+
+**Today's Progress**:<br> Completed more challenges in FCC.
+
+**Thoughts**<br> Spent the majority of today out and offline. Kinda drained, but am happy I gave some time to coding today.
+
+**Link(s) to work**<br>
+<a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a>
+
+
