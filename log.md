@@ -118,4 +118,20 @@ NA
 **Link(s) to work**<br>
 <a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a>
 
+### Day 13-22: January 13, Saturday — January 22, Monday
+
+**Today's Progress**:<br> Completed coding the general layout for new portfolio site and completed basic js, oop, and some algorithm challenges on FCC.
+
+**Thoughts**<br> Coding has definitely become a habit. I don't feel as if I need to log in order to stay motivated to do it now, but I can see how logging would've made it clearer to me if my progress was large or small at different points in time. I will get back to holding myself accountable on this platform and twitter.<br><br>In regards to my portfolio, I need to make a number of additions/edits:<br>
+  <ul>
+  <li>Create, organize, and add image assets.</li>
+  <li>Add text where appropriate</li>
+  <li>Draft new image boards to support layouts that respond to the type of work created in the project</li>
+  <li>Code more transitions into the site. (Consider using velocity.js)</li>
+  <li>Adjust images to have fixed height and width so that they don't stretch so much between breakpoints.</li>
+  </ul>
+
+**Link(s) to work**<br>
+<a href="https://www.freecodecamp.org/fcc80818577-d9be-4f29-ba90-ed6399621b37">Completed Challenges</a><br>
+<a href="http://www.leeeya.com/">My portfolio site</a>
 
